@@ -6,6 +6,7 @@ Designed in KiCad.
 
 ![breakout render](render.png)
 ![breakout render_back](render_back.png)
+![schematic](schematic.png)
 
 Notes:
 
