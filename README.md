@@ -4,16 +4,17 @@ It's designed to mount above or below the Teensy 4 and Header Breakout board on 
 
 Designed in KiCad.
 
+Notes:
+
+- In progress: First cut.
+- [OSHPark order](https://oshpark.com/shared_projects/X9b5MPJw)
+- Download bom/ibom.html and view it with web browser to see bill of materials and placement information.
+- The last pin on the right side provides an optional enable pin for the power management chip on digital pin 27.  For always-on, cut left trace and short right two pads.  
+- The last pin on the left side provides SD card detect on digital pin 29.  Needs INPUT_PULLUP.  Cut the jumper to free up pin 29.
+
 ![breakout render](render.png)
 ![breakout render_back](render_back.png)
 ![schematic](schematic.png)
-
-Notes:
-
-- In progress: First cut
-- Download bom/ibom.html and view it with web browser to see bill of materials and placement information.
-- The last pin on the right side provides an optional enable pin for the power management chip on digital pin 27.  For always-on, cut left trace and short right two pads.  
-- The last pin on the left side provides SD card detect on digital pin 29.  Needs INPUT_PULLUP.  Short JP2 to use.
 
 Left Side Pinout:
 
