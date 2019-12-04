@@ -1,4 +1,4 @@
-A combination breakout board with USB-A host and microSD connectors to mate with the [Teensy 4 Header Breakout Board](https://github.com/blackketter/teensy4_header_breakout).  
+A combination breakout board with USB-A host and microSD connectors to mate with the [Teensy 4 Header Breakout Board](https://github.com/blackketter/teensy4_header_breakout).  Combines functionality of the [USB Host Breakout](https://github.com/blackketter/teensy4_usb_host_breakout) and the [SD Breakout](https://github.com/blackketter/teensy4_sd_breakout).
 
 It's designed to mount above or below the Teensy 4 and Header Breakout board on a relatively tall header.
 
