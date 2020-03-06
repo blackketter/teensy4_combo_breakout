@@ -6,7 +6,7 @@ Designed in KiCad.
 
 Notes:
 
-- In progress: First cut.
+- In progress: First cut, seems to work great.
 - [OSHPark order](https://oshpark.com/shared_projects/X9b5MPJw)
 - Download bom/ibom.html and view it with web browser to see bill of materials and placement information.
 - The last pin on the right side provides an optional enable pin for the power management chip on digital pin 27.  For always-on, cut left trace and short right two pads.  
